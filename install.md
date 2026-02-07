@@ -1,0 +1,1 @@
+bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
